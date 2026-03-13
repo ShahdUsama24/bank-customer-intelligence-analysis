@@ -103,8 +103,8 @@ bank-customer-intelligence-analysis
 │   └── processed
 │
 ├── notebooks
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda_analysis.ipynb
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_cleaning & eda_analysis.ipynb
 │   ├── 03_feature_engineering.ipynb
 │   └── 04_customer_segmentation.ipynb
 │
